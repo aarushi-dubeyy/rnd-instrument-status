@@ -1,2 +1,3 @@
-# rnd-instrument-status
-Engineered a React (Next.js) and Material UI-based web application to track the operational status of R&amp;D laboratory instruments at IndianOil. Provided graphical and tabular views for quick insights and detailed reporting. Only the frontend code was uploaded for security and confidentiality purposes.
+# R&D Instrument Status - IOCL
+## Overview
+The R&D Instrument Status application is a web-based system developed to monitor and manage the operational status of research and development laboratory instruments at **Indian Oil Corporation Limited (IOCL)**.
